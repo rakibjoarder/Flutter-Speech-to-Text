@@ -8,7 +8,7 @@ A new Flutter application.
   3. Text to Speech.
   4. Animation with Flare.
 
-# Packages I have used in this project
+## Packages I have used in this project
   1. simple_permissions: ^0.1.9
   2. speech_recognition: ^0.3.0+1
   3.flutter_tts: ^0.6.0
